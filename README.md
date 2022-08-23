@@ -41,6 +41,8 @@
 - Select the install option
 - Proceed to your desktop to see the saved file
 
+[Deployed-Link](https://sufyaans-text-editor.herokuapp.com/)
+
 
 
 
